@@ -4,6 +4,7 @@ Este é um projeto de CRUD (Create, Read, Update, Delete) utilizando React no fr
 ⚙️ Como rodar o projeto
 
 Abra dois terminais:
+
   Um para o /api
     1. de npm install
     2. npm start
